@@ -1,5 +1,5 @@
 # Electronics Test Boards Library
-Various modular-designed test boards created for home didactic electronics projects.</br>
+Various modular-designed test boards created for home didactic electronics projects.<br>
 These boards (TEBO) are useful for:
 * testing specific components functions
 * prototyping complex projects by modular approach

@@ -16,11 +16,16 @@ todo x mcu:
 - tebo-mcu-pic12f683
 - tebo-mcu-pic16f877
 
+- tebo-io-led-array-8
+- tebo-io-switch-array-8
+
 - tebo-io-display-7seg
-- tebo-io-display-2x7seg
-- tebo-io-display-3x7seg  <- tebo-io-display-7seg + tebo-io-display-2x7seg ???
-- tebo-io-display-4x7seg  <- 2x tebo-io-display-2x7seg ???
-- tebo-if-bcd-to-7seg
+- tebo-io-display-7segx2
+- tebo-io-display-7segx3
+- tebo-io-display-7segx4
+
+- tebo-io-buffer-8
+- tebo-if-bcd-to-7segx2
 
 - tebo-io-display-lcd-16x2
 
