@@ -5,7 +5,7 @@
 adaptations:
 ------------
 
-- tebo-io-display-dot-8
+- tebo-io-led-array-8
 	driver transistor
 	driver ulnxxxx
 

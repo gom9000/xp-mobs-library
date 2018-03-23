@@ -18,6 +18,8 @@ These boards (TEBO) are useful for:
 * [tebo-mcu-pic16f6x8](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-mcu-pic16f6x8/) : Microchip PIC 16F6x8 microcontroller board v1.1
 * [tebo-io-switch-led-array-4](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-io-switch-led-array-4/) : 4-switch input array, 4-led output array v1.1
 * [tebo-io-button-led-array-4](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-io-button-led-array-4/) : 4-button input array, 4 led output array v1.0
+* [tebo-io-led-matrix-4x4](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-io-led-matrix-4x4/) : 4x4 output led matrix v1.0
+* [tebo-io-switch-matrix-4x4](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-io-switch-matrix-4x4/) : 4x4 input switch matrix v1.0
 * [tebo-if-rs232](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-if-rs232/) : rs232 interface v1.0
 * [tebo-if-midi](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-if-midi/) : midi-in/out/thru interface v1.3
 * [tebo-if-midi-in](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-if-midi-in/) : midi-in interface v1.3
@@ -40,6 +42,15 @@ Schematics and PCB layouts are designed with ExpressPCB free CAD software.
 ### PCB Specifications
 * PCB layout are designed for paperboard sizes: 2x8cm, 5x7cm, 7x10cm
 * Each TEBO has the power connector (PWR) with the positive pin on left, a decoupling capacitor and a power-on led (yes, I have surplus of components!)
+* Led colors and sizes are:
+	* 3mm green led for power or (3/5mm) normal activity status indicators
+	* 3mm yellow led for warning status indicators
+	* 3mm red led for error, fault or wrong status indicators
+	* 3mm blue led for request for manual intervent
+* Led current limiter resistors: R=1Kohm
+* Digital pin pull-up resistors: R=10Kohm
+* IC decoupling capacitors: C=100nF
+* Board filtering and decoupling capacitors: C=10uF tantalum
 
 ### ExpressPCB Custom Conponents Library
 * ExpressPCB components used for tebos are customized and named as "_TEBO-name-*size*"
