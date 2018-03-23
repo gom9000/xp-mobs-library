@@ -6,8 +6,8 @@ These boards (TEBO) are useful for:
 * expanding and interfacing components functions
 
 
-## Recent Updates (2017-04-06)
-* Add the TEBOs library
+## Recent Updates (2018-03-23)
+* Add io-matrix-4x4 TEBOs
 
 
 ## Contents of the library
@@ -43,7 +43,7 @@ Schematics and PCB layouts are designed with ExpressPCB free CAD software.
 * PCB layout are designed for paperboard sizes: 2x8cm, 5x7cm, 7x10cm
 * Each TEBO has the power connector (PWR) with the positive pin on left, a decoupling capacitor and a power-on led (yes, I have surplus of components!)
 * Led colors and sizes are:
-	* 3mm green led for power or (3/5mm) normal activity status indicators
+	* 3mm green led for power or (3/5mm) normal activity indicators
 	* 3mm yellow led for warning status indicators
 	* 3mm red led for error, fault or wrong status indicators
 	* 3mm blue led for request for manual intervent
