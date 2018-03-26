@@ -2,13 +2,6 @@
  test-boards-library
 ---------------------
 
-adaptations:
-------------
-
-- tebo-io-led-array-8
-	driver transistor
-	driver ulnxxxx
-
 
 todo x mcu:
 -----------
@@ -16,23 +9,27 @@ todo x mcu:
 - tebo-mcu-pic12f683
 - tebo-mcu-pic16f877
 
-- tebo-io-led-array-8
-- tebo-io-switch-array-8
-
 - tebo-io-display-7seg
 - tebo-io-display-7segx2
 - tebo-io-display-7segx3
 - tebo-io-display-7segx4
-
-- tebo-io-buffer-8
-- tebo-if-bcd-to-7segx2
+- tebo-if-bcd-to-7seg
 
 - tebo-io-display-lcd-16x2
 
 - tebo-io-analog-input
 
-- tebo-fn-dac-8
+- tebo-if-dac-8
+- tebo-if-not-8
 
+
+todo x bus:
+-----------
+
+- tebo-io-led-array-8 (buffered)
+- tebo-io-dipswitch-array-8
+- tebo-io-eprom???
+- tebo-if-buffer-8
 - tebo-if-address-decoder
 
 
@@ -43,4 +40,3 @@ todo misc:
 - tebo-psu-3-5
 - tebo-fn-clock-8112244
 - tebo-fn-clock-32.125MHz
-- tebo-if-eprom???
