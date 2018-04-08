@@ -41,7 +41,7 @@ Schematics and PCB layouts are designed with ExpressPCB free CAD software.
 
 ### PCB Specifications
 * PCB layout are designed for paperboard sizes: 2x8cm, 5x7cm, 7x10cm
-* Each TEBO has the power connector (PWR) with the positive pin on left, a decoupling capacitor and a power-on led (yes, I have surplus of components!)
+* Each TEBO has the power connector (PWR) with the positive pin on left, a bulk capacitor and a power-on led (yes, I have surplus of components!)
 * Led colors and sizes are:
 	* 3mm green led for power or (3/5mm) normal activity indicators
 	* 3mm yellow led for warning status indicators
@@ -50,7 +50,7 @@ Schematics and PCB layouts are designed with ExpressPCB free CAD software.
 * Led current limiter resistors: R=1Kohm
 * Digital pin pull-up resistors: R=10Kohm
 * IC decoupling capacitors: C=100nF
-* Board filtering and decoupling capacitors: C=10uF tantalum
+* Board bulk capacitors: C=10uF tantalum
 
 ### ExpressPCB Custom Conponents Library
 * ExpressPCB components used for tebos are customized and named as "_TEBO-name-*size*"
