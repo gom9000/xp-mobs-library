@@ -1,6 +1,6 @@
 # Electronics Test Boards Library
 Various modular-designed test boards created for home didactic electronics projects.<br>
-These boards (TEBO) are useful for:
+These test boards (TEBO) are useful for:
 * testing specific components functions
 * prototyping complex projects by modular approach
 * expanding and interfacing components functions
@@ -8,11 +8,12 @@ These boards (TEBO) are useful for:
 
 ## Recent Updates (2018-03-23)
 * Add io-matrix-4x4 TEBOs
+* Add if-midi-out-x2 TEBO
 
 
 ## Contents of the library
 * [ExpressPCB custom components library](https://github.com/gos95-electronics/test-boards-library/tree/master/expresspcb/) containing the schematic and pcb components used for drawing the tebos layout
-* [tebo-psu-5](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-psu-5/) : psu 5V v1.2
+* [tebo-psu-5](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-psu-5/) : psu 5V v1.3
 * [tebo-psu-distribution](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-psu-distribution/) : psu 8-lines distribution unit v1.0
 * [tebo-fn-cbank-26.4mF](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-fn-cbank-26.4mF/) : 26400uF/10V capacitor bank v1.0
 * [tebo-mcu-pic16f6x8](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-mcu-pic16f6x8/) : Microchip PIC 16F6x8 microcontroller board v1.1
@@ -23,8 +24,9 @@ These boards (TEBO) are useful for:
 * [tebo-if-rs232](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-if-rs232/) : rs232 interface v1.0
 * [tebo-if-midi](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-if-midi/) : midi-in/out/thru interface v1.3
 * [tebo-if-midi-in](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-if-midi-in/) : midi-in interface v1.3
-* [tebo-if-midi-in-x2](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-if-midi-in-x2/) : two input midi-in interface v1.3
+* [tebo-if-midi-in-x2](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-if-midi-in-x2/) : two input midi-in interface v1.0
 * [tebo-if-midi-out](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-if-midi-out/) : midi-out interface v1.3
+* [tebo-if-midi-out-x2](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-if-midi-out-x2/) : two output midi-out interface v1.0
 * [tebo-if-fdd](https://github.com/gos95-electronics/test-boards-library/tree/master/tebo-if-fdd/) : Floppy Disk Drive interface v1.1
 
 
@@ -41,7 +43,7 @@ Schematics and PCB layouts are designed with ExpressPCB free CAD software.
 
 ### PCB Specifications
 * PCB layout are designed for paperboard sizes: 2x8cm, 5x7cm, 7x10cm
-* Each TEBO has the power connector (PWR) with the positive pin on left, a bulk capacitor and a power-on led (yes, I have surplus of components!)
+* Each TEBO has the power connector (PWR) with the positive pin on left, a bulk capacitor (C) and a power-on led (DL) (yes, I have surplus of components!)
 * Led colors and sizes are:
 	* 3mm green led for power or (3/5mm) normal activity indicators
 	* 3mm yellow led for warning status indicators
@@ -52,7 +54,7 @@ Schematics and PCB layouts are designed with ExpressPCB free CAD software.
 * IC decoupling capacitors: C=100nF
 * Board bulk capacitors: C=10uF tantalum
 
-### ExpressPCB Custom Conponents Library
+### ExpressPCB Custom Components Library
 * ExpressPCB components used for tebos are customized and named as "_TEBO-name-*size*"
 * Paperboard layout templates are also saved as ExpressPCB custom components and named as "_TEBO-Paperboard-*size*"
 * Components size units, where not specified, are 1/10 of inches (1/10 of inch = 1 Module Unit)
