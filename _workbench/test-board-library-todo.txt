@@ -26,6 +26,7 @@ todo x mcu:
 
 - tebo-if-dac-8
 - tebo-if-not-8
+- tebo-if-clock-32768
 
 
 todo x bus:
