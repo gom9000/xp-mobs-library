@@ -2,11 +2,20 @@
 This file contains the log of changes of **MOBs Library** project.
 
 
-## 0.1.0 2017-04-06 Maintenance release
-- Created repository *TEBO*
+## 0.3.0 "*mobs-library*" 2019-10-25 Feature release
+- Modified repo to mobs-library
+- Ported expresspcb resources from tebo-library
+- Ported MOB mob-psu-5v
+- Ported MOB mob-psu-distribution
+- Ported MOB mob-io-array-switch-and-led-4x
+- Ported MOB mob-io-array-led-8x
+- Ported MOB mob-io-array-switch-8x
+- Ported MOB mob-io-matrix-switch-4x4
+- Ported MOB mob-io-matrix-led-4x4
+- Ported MOB mob-mcu-16f6x8
 
 
-## 0.2.0 **tebo-library** 2019-04-30 Feature release
+## 0.2.0 "*tebo-library*" 2019-04-30 Feature release
 - Added TEBO tebo-8bit-io-led
 - Added TEBO tebo-8bit-io-switch
 - Added TEBO tebo-fn-cbank-26.4mF
@@ -26,6 +35,5 @@ This file contains the log of changes of **MOBs Library** project.
 - Added TEBO tebo-psu-distribution
 
 
-## 0.3.0 **mobs-library** 2019-10-25 Maintenance release
-- Modified repo to mobs-library
-- Ported expresspcb resources from tebo-library
+## 0.1.0 2017-04-06 Maintenance release
+- Created repository *TEBO*
