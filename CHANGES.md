@@ -11,6 +11,7 @@ This file contains the log of changes of **MOBs Library** project.
 - Ported MOB mob-io-matrix-switch-4x4
 - Ported MOB mob-io-matrix-led-4x4
 - Ported MOB mob-if-rs232
+- Ported MOB mob-fn-cbank-26.4mF
 - Ported MOB mob-mcu-16f6x8
 - Add MOB mob-io-array-led-8x
 - Add MOB mob-io-array-switch-8x
