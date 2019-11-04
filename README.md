@@ -19,6 +19,7 @@ These MOdule Boards (MOBs) are useful for:
 * [mob-io-array-switch-8x](mobs/mob-io-array-switch-8x/) : 8-switch input array module board
 * [mob-io-matrix-switch-4x4](mobs/mob-io-matrix-switch-4x4/) : 4x4 input switch matrix module board
 * [mob-io-matrix-led-4x4](mobs/mob-io-matrix-led-4x4/) : 4x4 led matrix module board
+* [mob-if-rs232](mobs/mob-if-rs232/) : rs232 interface board
 * [mob-mcu-pic16f6x8](mobs/mob-mcu-pic16f6x8/) : Microchip PIC 16F6x8 microcontroller module board
 
 
