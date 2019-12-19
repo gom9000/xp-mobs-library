@@ -13,8 +13,8 @@ This file contains the log of changes of **MOBs Library** project.
 - Ported MOB mob-if-rs232
 - Ported MOB mob-fn-cbank-26.4mF
 - Ported MOB mob-mcu-16f6x8
-- Add MOB mob-io-array-led-8x
-- Add MOB mob-io-array-switch-8x
+- Added MOB mob-io-array-led-8x
+- Added MOB mob-io-array-switch-8x
 
 
 ## 0.2.0 "*tebo-library*" 2019-04-30 Feature release
