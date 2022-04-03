@@ -2,6 +2,16 @@
 This file contains the log of changes of **MOBs Library** project.
 
 
+## 0.4.0 "*mobs-library*" 2022-04-03 Upgrade release
+- Splitted MOBs by operating voltage 5V vs 3V3
+- Updated MOB mob-fn-cbank-26.4mF
+- Updated MOB mob-io-array-led-8x
+- Updated MOB mob-io-array-switch-8x
+- Updated MOB mob-io-matrix-led-4x4
+- Updated MOB mob-io-matrix-switch-4x4
+- Updated MOB mob-psu-distribution
+
+
 ## 0.3.0 "*mobs-library*" 2019-11-04 Feature release
 - Modified repo to mobs-library
 - Ported expresspcb resources from tebo-library

@@ -1,5 +1,6 @@
 # *C-Bank 26.4mF* Module Board
 26400uF Capacitor bank module board.
+This MOB can operate at both 3V3 and 5V.
 
 ![mob-built](mob-fn-cbank-26.4mF_built.jpg)
 

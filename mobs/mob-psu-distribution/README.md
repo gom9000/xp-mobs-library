@@ -3,6 +3,7 @@
 <br>
 In most cases you will need to connect more than one MOB to the power supply at the same time, so you will need more power connectors. 
 This is precisely the function of this module.
+This MOB can operate at both 3V3 and 5V.
 
 ![mob-built](mob-psu-distribution_built.jpg)
 

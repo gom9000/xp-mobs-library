@@ -1,5 +1,6 @@
 # *Switch arrays* Module Board
-4 "active-low" switch input array module board.
+8 x "active-low" switch input array module board.
+This MOB can operate at both 3V3 and 5V.
 
 ![mob-built](mob-io-array-switch-8x_built.jpg)
 

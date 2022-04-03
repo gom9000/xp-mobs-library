@@ -1,5 +1,6 @@
 # *4x4 Led Matrix* Module Board
 4x4 led switch matrix module board.
+This MOB can operate at both 3V3 and 5V.
 
 ![mob-built](mob-io-matrix-led-4x4_built.jpg)
 

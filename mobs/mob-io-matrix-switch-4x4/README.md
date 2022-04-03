@@ -1,5 +1,6 @@
 # *4x4 Switch Matrix* Module Board
 4x4 input switch matrix module board.
+This MOB can operate at both 3V3 and 5V.
 
 ![mob-built](mob-io-matrix-switch-4x4_built.jpg)
 

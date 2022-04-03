@@ -1,8 +1,9 @@
 # *I/O Switch & LED arrays* Module Board
 4-switch input array and 4-led output array module board.
 <br>
-This input/output MOB is composed of two submodules, one consisting of 4 "active-low" input switches (for each switch current is limited to 0.5mA on 5V PSU), 
-the other consisting of 4 "active-high" output LEDs (for each LED the current is limited to 5mA on 5V PSU).
+This input/output MOB is composed of two submodules, one consisting of 4 x "active-low" input switches (for each switch current is limited to about 0.5mA on 5V PSU), 
+the other consisting of 4 x "active-high" output LEDs (for each LED the current is limited to about 3-4mA on 5V PSU).
+This MOB can operate at both 3V3 and 5V.
 
 ![mob-built](mob-io-array-switch-and-led-4x_built.jpg)
 

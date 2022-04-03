@@ -1,5 +1,6 @@
 # *I/O LED arrays* Module Board
-4 "active-high" led output array module board.
+8 x "active-high" led output array module board.
+This MOB can operate at both 3V3 and 5V.
 
 ![mob-built](mob-io-array-led-8x_built.jpg)
 
