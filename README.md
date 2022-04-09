@@ -22,6 +22,7 @@ These MOdule Boards (MOBs) are useful for:
 * [mob-io-matrix-switch-4x4](mobs/mob-io-matrix-switch-4x4/) : 4x4 input switch matrix module board
 * [mob-io-matrix-led-4x4](mobs/mob-io-matrix-led-4x4/) : 4x4 led matrix module board
 * [mob-fn-cbank-26.4mF](mobs/mob-fn-cbank-26.4mF/) : 26400uF Capacitor bank
+* [mob-if-midi](mobs/mob-if-midi/) : midi in/out/thru module board
 
 ### MOBs operating only at 5V
 * [mob-if-rs232](mobs/mob-if-rs232/) : rs232 interface board

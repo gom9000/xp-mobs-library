@@ -2,6 +2,10 @@
 This file contains the log of changes of **MOBs Library** project.
 
 
+## 0.5.0 2022-04-09 Feature release
+- Added MOB mob-if-midi
+
+
 ## 0.4.0 "*mobs-library*" 2022-04-03 Upgrade release
 - Splitted MOBs by operating voltage 5V vs 3V3
 - Updated MOB mob-fn-cbank-26.4mF
