@@ -12,7 +12,6 @@ These MOdule Boards (MOBs) are useful for:
 
 ## Contents of the MOBs library
 * [ExpressPCB custom components library](expresspcb) containing the ExpressPCB files of schematic and pcb components used for drawing the MOBs layout
-* [mob-psu-5v](mobs/mob-psu-5v/) : psu 5V module board
 
 ### MOBs operating at both 3V3 and 5V
 * [mob-psu-distribution](mobs/mob-psu-distribution/) : 8-lines power bus expansion module board
@@ -23,8 +22,10 @@ These MOdule Boards (MOBs) are useful for:
 * [mob-io-matrix-led-4x4](mobs/mob-io-matrix-led-4x4/) : 4x4 led matrix module board
 * [mob-fn-cbank-26.4mF](mobs/mob-fn-cbank-26.4mF/) : 26400uF Capacitor bank
 * [mob-if-midi](mobs/mob-if-midi/) : midi in/out/thru module board
+* [mob-analog-pot-2x](mobs/mob-analog-pot-2x/) : analog potentiometers module board
 
 ### MOBs operating only at 5V
+* [mob-psu-5v](mobs/mob-psu-5v/) : psu 5V module board
 * [mob-if-rs232](mobs/mob-if-rs232/) : rs232 interface board
 * [mob-mcu-pic16f6x8](mobs/mob-mcu-pic16f6x8/) : Microchip PIC 16F6x8 microcontroller module board
 
