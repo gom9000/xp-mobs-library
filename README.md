@@ -22,7 +22,7 @@ These MOdule Boards (MOBs) are useful for:
 * [mob-io-matrix-led-4x4](mobs/mob-io-matrix-led-4x4/) : 4x4 led matrix module board
 * [mob-fn-cbank-26.4mF](mobs/mob-fn-cbank-26.4mF/) : 26400uF Capacitor bank
 * [mob-if-midi](mobs/mob-if-midi/) : midi in/out/thru module board
-* [mob-analog-pot-2x](mobs/mob-analog-pot-2x/) : analog potentiometers module board
+* [mob-voltage-divider-pot-2x](mobs/mob-voltage-divider-pot-2x/) : voltage-divider potentiometers module board
 
 ### MOBs operating only at 5V
 * [mob-psu-5v](mobs/mob-psu-5v/) : psu 5V module board

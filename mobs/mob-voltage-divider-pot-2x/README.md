@@ -1,17 +1,17 @@
-# *Analog Potentiometer* Module Board
+# *Voltage-Divider Potentiometer* Module Board
 2x 10Kohm potentiometers connected with outers terminal between power supply and ground, and wipes to the output.
 <br>
 This MOB can operate at both 3V3 and 5V.
 
-![mob-built](mob-analog-pot_built.jpg)
+![mob-built](mob-voltage-divider-pot-2x_built.jpg)
 
 
 ## Schematic
-![mob-schematic](mob-analog-pot_sch.jpg)
+![mob-schematic](mob-voltage-divider-pot-2x_sch.jpg)
 
 
 ## PCB Layout
-![mob-pcb](mob-analog-pot_pcb.jpg)
+![mob-pcb](mob-voltage-divider-pot-2x_pcb.jpg)
 
 
 ## Bill of Materials

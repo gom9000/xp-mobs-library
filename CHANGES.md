@@ -2,6 +2,10 @@
 This file contains the log of changes of **MOBs Library** project.
 
 
+## 0.6.0 2024-07-04 Feature release
+- Added MOB mob-voltage-divider-pot-2x
+
+
 ## 0.5.0 2022-04-09 Feature release
 - Added MOB mob-if-midi
 
