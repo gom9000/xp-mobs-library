@@ -2,6 +2,12 @@
 This file contains the log of changes of **MOBs Library** project.
 
 
+## 0.7.0 2024-07-21 Feature release
+- Added MOB mob-audio-psu-9v-5v
+- Added MOB mob-audio-jack
+- Added MOB mob-audio-io-stage
+
+
 ## 0.6.0 2024-07-04 Feature release
 - Added MOB mob-voltage-divider-pot-2x
 

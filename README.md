@@ -4,6 +4,7 @@ Various modular-designed electronics boards created for home learning projects.
 ![overview](images/overview.jpg)
 
 These MOdule Boards (MOBs) are useful for:
+* doing experiences
 * testing specific components functions
 * prototyping complex projects by modular approach
 * expanding and interfacing components functions
@@ -28,6 +29,12 @@ These MOdule Boards (MOBs) are useful for:
 * [mob-psu-5v](mobs/mob-psu-5v/) : psu 5V module board
 * [mob-if-rs232](mobs/mob-if-rs232/) : rs232 interface board
 * [mob-mcu-pic16f6x8](mobs/mob-mcu-pic16f6x8/) : Microchip PIC 16F6x8 microcontroller module board
+
+### MOBs for audio experiences
+* [mob-audio-psu-9v-5v](mobs/mob-audio-psu-9v-5v/) : psu 9V (VCC) and 5V (VR) module board
+* [mob-audio-jack](mobs/mob-audio-jack/) : audio TRS jack 1/4" adapter module board
+* [mob-audio-io-stage](mobs/mob-audio-io-stage/) : audio input and output stages module board
+
 
 ## Specifications
 Schematics and PCB layouts are designed with ExpressPCB free CAD software.
